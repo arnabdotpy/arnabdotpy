@@ -1,5 +1,5 @@
 # 💫 About Me:
-const whoAmI= {<br>  Name: "Arnab",<br>  Age: 17,<br>  Pronouns: ["He", "Him"],<br>  Hobbies: [<br>    "Freelancing", "Guitar", "Coding", "Innovating Stuff" <br>  ]<br>}
+const whoAmI= {<br>  Name: "Arnab",<br>  Age: 17,<br>  Pronouns: ["He", "Him"],<br>  Hobbies: ["Freelancing", "Guitar", "Coding", "Innovating Stuff"]<br>}
 
 
 ## 🌐 Socials:
