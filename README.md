@@ -1,4 +1,4 @@
-<p align="center">Hello, I am Arnab</p>
+<h1 align="center">Hello, I am Arnab</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Stats</p>
+<h3 align="center">Stats</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">Tech Stack</p>
+<h3 align="center">Tech Stack</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<p align="center">Social</p>
+<h3 align="center">Social</h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<p align="center">Profile Views</p>
+<h3 align="center">Profile Views</h3>
 
 ###
 
