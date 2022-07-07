@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img border-radius="100%" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.discordapp.net/attachments/973658571545923615/994522178907279370/image-removebg-preview_1.png"  />
 </div>
 
 ###
