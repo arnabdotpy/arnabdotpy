@@ -37,7 +37,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arnabdotpy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="center" style="width: 100%" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arnabdotpy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="center"/></div> 
 
 <br/>  
 
