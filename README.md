@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+**<div align="center">Hey there, Arnab this side</div>**  
+
   
 
 ### <div align="center">I'm Arnab | Full Stack | Discord Dev | Freelancer</div>  
