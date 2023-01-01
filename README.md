@@ -1,8 +1,5 @@
-#### **<div align="center">Hey there, Arnab this side</div>**  
-
-  
-
-### <div align="center">I'm Arnab | Full Stack | Discord Dev | Freelancer</div>  
+### <div align="center">Hey there, Arnab this side</div> 
+ ### <div align="center">Full Stack | Discord Dev | Freelancer</div>  
   
 
 - 🔭 I love discovering new stars on the sky of Tech  
