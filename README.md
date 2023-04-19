@@ -1,5 +1,5 @@
-### <div align="center">Hello from Arnab,</div> 
- ### <div align="center">SDE Intern at Physics Wallah</div>  
+### <div>Hello, I'm Arnab!</div> 
+ ### <div>SDE Intern at Physics Wallah</div>  
   
 <br/> 
 <br/> 
@@ -35,11 +35,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arnabdotpy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="center"/></div> 
-
-<br/>  
 
 ## Get In Touch  
 <div align="center">
