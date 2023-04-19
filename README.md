@@ -1,4 +1,4 @@
-![Alt Text](https://media.discordapp.net/attachments/973658571545923615/1098283195755139072/Hi_Im_Arnab.gif?width=1440&height=548)
+![Banner Here](https://media.discordapp.net/attachments/973658571545923615/1098297559518294177/Hi_Im_Arnab_3.gif?width=1440&height=548)
  ### <div>SDE Intern at Physics Wallah</div>  
   
 <br/> 
