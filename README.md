@@ -1,16 +1,16 @@
-### <div align="center">Hey there, Arnab this side</div> 
- ### <div align="center">Full Stack | Discord Dev | Freelancer</div>  
+### <div align="center">I'm Arnab,</div> 
+ ### <div align="center">SDE Intern at Physics Wallah</div>  
   
 <br/> 
 <br/> 
 
-- 🔭 I love discovering new stars on the sky of Tech  
-  
+- 🔭 Tinkering with Tech & getting better every day
 
-- 🌱 I’m currently learning about Blockchain Development  
-  
 
-- 🎸 Well playing the guitar gives me positive vibes  
+- 🌱 Looking for colleges to pursue BTech
+
+
+- 🎸 Rather than Coding and Freelancing I do play Guitar
  
 
 <br/>  
