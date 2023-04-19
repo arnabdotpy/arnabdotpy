@@ -1,7 +1,6 @@
-### <div>Hello, I'm Arnab!</div> 
+![Alt Text](https://media.discordapp.net/attachments/973658571545923615/1098283195755139072/Hi_Im_Arnab.gif?width=1440&height=548)
  ### <div>SDE Intern at Physics Wallah</div>  
   
-<br/> 
 <br/> 
 
 - 🔭 Tinkering with Tech & getting better every day
@@ -12,9 +11,6 @@
 
 - 🎸 Rather than Coding and Freelancing I do play Guitar
  
-
-<br/>  
-
 <br/>  
 
 ## Tech Stack 
@@ -34,7 +30,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-<br/>
+
 <br/>
 
 ## Get In Touch  
@@ -65,8 +61,3 @@
                 />
 <img src="https://komarev.com/ghpvc/?username=arnabdotpy&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
