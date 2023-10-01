@@ -3,13 +3,9 @@
   
 <br/> 
 
-- 🔭 Tinkering with Tech & getting better every day
-
-
-- 🌱 Looking for colleges to pursue BTech
-
-
-- 🎸 Rather than Coding and Freelancing I do play Guitar
+- Tinkering with Tech
+- Freshman @ Bennett University
+- I am an Autodidact Guitarist
  
 <br/>  
 
