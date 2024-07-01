@@ -4,7 +4,7 @@
 <br/> 
 
 - Tinkering with Tech
-- Freshman @ Bennett University
+- Sophomore @ Bennett University
 - I am an Autodidact Guitarist
 
 <br/>  
