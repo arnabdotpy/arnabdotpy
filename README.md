@@ -1,4 +1,4 @@
-![Banner Here](https://cdn.jsdelivr.net/gh/arnabdotpy/arnabdotpy/github-profile-animation.gif)
+![Banner Here](https://github.com/arnabdotpy/arnabdotpy/blob/main/github-profile-animation.gif?raw=true)
 
  ### <div>Associate Software Engineer at [Physics Wallah](https://pw.live)</div>  
 
