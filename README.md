@@ -1,4 +1,4 @@
-![Banner Here](https://media.discordapp.net/attachments/973658571545923615/1098302237253582909/Hi_Im_Arnab_5.gif?width=1440&height=427)
+![Banner Here]([https://media.discordapp.net/attachments/973658571545923615/1098302237253582909/Hi_Im_Arnab_5.gif?width=1440&height=427](https://cdn.jsdelivr.net/gh/arnabdotpy/arnabdotpy/github-profile-animation.gif))
  ### <div>Associate Software Engineer at [Physics Wallah](https://pw.live)</div>  
 
 <br/> 
