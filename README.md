@@ -6,7 +6,6 @@
 
 - Sophomore @ Bennett University (BTech CSE)
 - I love tinkering with Projects & Gadgets
-
 <br/> 
 
 ## Tech Stack 
